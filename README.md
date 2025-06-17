@@ -10,8 +10,7 @@ The project demonstrates structured data handling, logic-based pay systems, and 
 - Time formatting and automation
 - Error troubleshooting
 
-
-- **File:** [Download the .xlsx file] [Employee Attendance & Payroll Tracker (1).xlsx](https://github.com/user-attachments/files/20765345/Employee.Attendance.Payroll.Tracker.1.xlsx)
+# **File:** [Download the .xlsx file] [Employee Attendance & Payroll Tracker (1).xlsx](https://github.com/user-attachments/files/20765345/Employee.Attendance.Payroll.Tracker.1.xlsx)
 
 
 # SQL-Based STD Trends Analysis (1996–2008)
